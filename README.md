@@ -1,8 +1,8 @@
 ## Identitas
 
-Nama: 
+Nama: Muhammad Iqbal Gibrany
 
-NIM : 
+NIM : 607062400107
 
 ## Instruksi
 
